@@ -14,7 +14,7 @@ Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video games🎮!
 
-<img align="right" alt="GIF" src="./code.gif" width="500" />
+<img align="right" alt="GIF" src="./code.gif" width="480" />
 
 
 ### Languages and Tools:
