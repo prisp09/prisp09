@@ -16,6 +16,7 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
 
 <img align="right" alt="GIF" src="./code.gif" width="500" />
 
+
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -31,12 +32,9 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
 ![Verilog](https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=v&logoColor=white&color=purple)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="prisp09 github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="k-batura github stats"/>
 
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -50,6 +48,6 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
   <summary><b>click me</b></summary>
     
   <img align="left" src="./7veW.gif"/>
- 
+
   ⬅️ The power I wish to obtain.
 </details>
