@@ -14,21 +14,22 @@ Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video games🎮!
 
-<img align="right" alt="GIF" src="./code.gif" width="420" />
+<img align="right" alt="GIF" src="./code.gif" width="400" />
 
 
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Bash & Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Risc-V](https://img.shields.io/badge/RISCV-3776AB?style=for-the-badge&logo=risc&logoColor=white&color=red)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Risc-V](https://img.shields.io/badge/RISCV-3776AB?style=for-the-badge&logo=intel&logoColor=white&color=red)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow&color=blue)&nbsp;
+![Verilog](https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=v&logoColor=white&color=purple);
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="k-batura github stats"/>
