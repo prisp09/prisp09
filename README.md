@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanshu!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-sanjay-patel/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.sanjay.patel@gmail.com?subject=[GitHub feedback])
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.sanjay.patel@gmail.com?subject=[GitHub-Feedback])
 
 
 
@@ -14,7 +14,7 @@ Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video games🎮!
 
-<img align="right" alt="GIF" src="./images/code.gif" width="420" />
+<img align="right" alt="GIF" src="./code.gif" width="420" />
 
 
 ### Languages and Tools:
@@ -46,7 +46,7 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
 <details>
   <summary><b>click me</b></summary>
     
-  <img align="left" src="./images/7veW.gif"/>
+  <img align="left" src="./7veW.gif"/>
 
   ⬅️ The power I wish to obtain.
 </details>
