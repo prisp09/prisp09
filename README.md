@@ -14,7 +14,7 @@ Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video games🎮!
 
-<img align="right" alt="GIF" src="./code.gif" width="500" />
+
 
 ### Languages and Tools:
 
@@ -28,11 +28,11 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
 ![Bash & Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Risc-V](https://img.shields.io/badge/RISCV-3776AB?style=for-the-badge&logo=intel&logoColor=white&color=red)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow&color=blue)&nbsp;
-![Verilog](https:<img align="right" alt="GIF" src="./code.gif" width="500" />//img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=v&logoColor=white&color=purple)
+![Verilog](https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=v&logoColor=white&color=purple)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="prisp09 github stats"/>
-
+<img align="right" alt="GIF" src="./code.gif" width="500" />
 
 <br />
 <br />
