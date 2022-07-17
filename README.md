@@ -14,7 +14,7 @@ Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video games🎮!
 
-
+<img align="right" alt="GIF" src="./code.gif" width="500" />
 
 ### Languages and Tools:
 
@@ -32,7 +32,7 @@ Other than coding, I enjoy mountain biking🚵, exploring🌵 and playing video 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="prisp09 github stats"/>
-<img align="right" alt="GIF" src="./code.gif" width="500" />
+
 
 <br />
 <br />
