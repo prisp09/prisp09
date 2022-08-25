@@ -14,9 +14,8 @@ My name is Priyanshu and I am a motivated BSc. Computer Science graduate from Yo
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and hitting the gym💪!
 
-<img align="right" alt="GIF" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="420" />
-
 ---
+<img align="right" alt="GIF" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="420" />
 
 ### Languages:
 Java, JavaScript, Python, SQL(MySQL, Postgres), MongoDB(MQL), Shell & Bash, C, HTML5, CSS3
@@ -26,20 +25,22 @@ React.js, Express.js, SpringBoot, Node.js, Next.js, JUnit, Bcrypt
 
 ### Tools:
 Github, Eclipse, VSCode, Android Studio, Maven, Netlify, Beekeeper Studio, Heroku
-
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="k-batura github stats"/>
+<br/>
+<br/>
 
 ---
 
-<br />
-<br />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisp09&layout=compact" alt="k-batura github stats"/>
 
-### Thank you visiting!
+### Thank you for visiting!
 
-<br />
-<br />
+if(liked==true) {<br/>
+&nbsp; console.log("Leave a ⭐ :)");<br/>
+}<br/>
+else {<br/>
+&nbsp; break;<br/>
+}<br/>
+
 <br />
 
 <details>
