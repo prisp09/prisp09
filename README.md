@@ -4,10 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.sanjay.patel@gmail.com?subject=[GitHub-Feedback])
 [![Webpage Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://priyanshupatel.com/)
 
-
-
-**Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prisp09)**
-
 ### About Me:
 
 My name is Priyanshu and I am a motivated BSc. Computer Science graduate from York University that comes with a wide array of industry applicable skills that make me job ready. At the moment, I am pursuing a career in frontend, backend or full-stack development while strengthening my grasp of frontend design elements to become unstoppable! Currently working on new projects to show off my skills! 😎
