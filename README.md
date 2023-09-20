@@ -6,7 +6,7 @@
 
 ### About Me:
 
-My name is Priyanshu and I am a motivated BSc. Computer Science graduate from York University that comes with a wide array of industry applicable skills that make me job ready. At the moment, I am pursuing a career in frontend, backend or full-stack development while strengthening my grasp of frontend design elements to become unstoppable! Currently working on new projects to show off my skills! 😎
+My name is Priyanshu and I am a motivated BSc. Computer Science graduate from York University who comes with a wide array of industry-applicable skills that make me job-ready. At the moment, I am pursuing a career in frontend, backend or full-stack development while strengthening my grasp of frontend design elements to become unstoppable! Currently working on new projects to show off my skills! 😎
 
 Other than coding, I enjoy mountain biking🚵, exploring🌵 and hitting the gym💪!
 
